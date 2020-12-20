@@ -34,7 +34,7 @@ function Images(){
       
         <div className="row centrado">
        
-        <input onChange={handleCahnge} type="text" name="photo" placeholder="Beatifull Photos" className="busqueda" id="miid" />
+        <input onChange={handleCahnge} type="text" name="photo" placeholder="Beautiful Photos" className="busqueda" id="miid" />
         
         <div className="actions">
         <button onClick={handleSubmit} type="submit" className="btng" >Find</button>
