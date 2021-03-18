@@ -1,13 +1,7 @@
-import Images from './components/images';
-
-
+import Images from "./components/images";
 
 function App() {
-  return (
-   <Images/>
-  );
+  return <Images />;
 }
 
 export default App;
-
-
